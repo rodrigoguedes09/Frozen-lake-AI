@@ -35,6 +35,8 @@ Running the Project
     the destination based on what it has learned. The generated graph will show 
     the agent's performance over the training episodes.
 
+![image](https://github.com/rodrigoguedes09/Frozen-lake-AI/assets/61996985/6b72e3fb-04ce-4ef6-8446-24394971581c)
+
 
 Notes
 
