@@ -2,7 +2,7 @@ Reinforcement Learning Project on Frozen Lake
 
 
 
-Project Description
+Project Description:
 
     This project presents a Reinforcement Learning agent that learns to navigate the Frozen Lake
     environment using the Q-Learning approach. Frozen Lake is a classic machine learning 
